@@ -229,8 +229,8 @@ section{
 }
 
 .home .content  p{
-    font-size: 2rem;
-    font-weight: normal;
+    font-size: 1.6rem;
+    font-weight: lighter;
     line-height: 1.8;
     padding: 1rem 0;
     color: #fff;
